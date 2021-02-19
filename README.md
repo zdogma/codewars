@@ -5,7 +5,6 @@
 This repo contains the codes to be posted below.
 
 - [Codewars](https://www.codewars.com/users/zdogma)
-- [LeetCode](https://leetcode.com/zdogma/)
 
 ## Contribution
 
