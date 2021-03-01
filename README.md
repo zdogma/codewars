@@ -6,6 +6,8 @@ This repo contains the codes to be posted below.
 
 - [Codewars](https://www.codewars.com/users/zdogma)
 
+<img src="https://www.codewars.com/users/zdogma/badges/large" width=300px>
+
 ## Contribution
 
 1. Fork it ( https://github.com/zdogma/coding-training/fork )
