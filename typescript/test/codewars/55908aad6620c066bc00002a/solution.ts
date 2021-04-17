@@ -1,4 +1,5 @@
 import {assert} from 'chai';
+import {describe, it} from 'mocha';
 
 // Solution
 const xo = (string: string): boolean => {

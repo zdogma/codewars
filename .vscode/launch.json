@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "pwa-node",
+      "request": "launch",
+      "name": "Codewars の solution.ts のテストを実行する",
+      "program": "${workspaceFolder}/typescript/node_modules/mocha/bin/_mocha",
+      "args": [
+        "-r",
+        "ts-node/register",
+        "--timeout",
+        "999999",
+        "--colors",
+        "${workspaceFolder}/typescript/test/codewars/**/solution.ts",
+      ],
+      "env": {
+        "TS_NODE_PROJECT": "${workspaceFolder}/typescript/tsconfig.json"
+      }
+    }
+  ]
+}
